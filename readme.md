@@ -1,4 +1,3 @@
-# Ebal mat
 ##header
 ###header
 ####header
